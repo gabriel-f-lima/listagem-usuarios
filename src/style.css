@@ -1,0 +1,62 @@
+.container {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    font-family: Arial, sans-serif;
+}
+
+.h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.h2 {
+    font-size: 1.25rem;
+    color: #555;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+}
+
+.ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.li {
+    margin-bottom: 1rem;
+}
+
+.li hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin-bottom: 0.75rem;
+}
+
+.li strong {
+    font-size: 1.1rem;
+    color: #111;
+}
+
+.li p {
+    margin: 0.25rem 0;
+    color: #666;
+    font-size: 0.95rem;
+}
+
+.error {
+    color: #d9534f;
+    font-weight: bold;
+    margin-top: 1rem;
+}
